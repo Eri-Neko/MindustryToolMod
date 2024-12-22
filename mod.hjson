@@ -6,7 +6,7 @@ author: "[red]VN-[#ff6347]Sharrlotte[]"
 
 main: "mindytool.Main"
 
-description: |
+description: "|
    [#ff6347]Mindustry Tool – [white]Enhance Your Mindustry Experience[]
 
   [white]Mindustry Tool is a mod that integrates with [#00bfff]mindustry-tool.com[white], allowing players to share and download [#00bfff]maps [white]and [#00bfff]schematics [white]while playing Mindustry. Content is user-generated and curated by [#32cd32]moderators[white], ensuring high quality and [#ff69b4]diversity[].
@@ -31,7 +31,7 @@ description: |
 
   [#ff6347]Useful Links[]:
     • [#00bfff] Website: [white]https://mindustry-tool.com[]
-    • [#ff6347] Discord: [white]https://discord.gg/72324gpuCd[]
+    • [#ff6347] Discord: [white]https://discord.gg/72324gpuCd[]"
 
 version: 1.8.16
 
